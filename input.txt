@@ -1,0 +1,12 @@
+main(){
+int a;
+int c;
+int d;
+int e;
+
+a = 10;
+c = 5;
+e = 10;
+d = a+c*2-12;
+d = a-c-(2-3)*5;
+}
